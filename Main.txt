@@ -2,3 +2,4 @@ This is a demo txt file.
     - created by Harsh Gupta
 
 This line indicates an update made to the file main.txt
+This line was created while making changes within the branch 'test'.
